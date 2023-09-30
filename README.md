@@ -34,3 +34,7 @@ npm i utils-playground
 cd src
 # rodar programa
 node --watch index.js
+```
+# Autor
+Yuri da Cruz Brizolara
+[linkedin](www.linkedin.com/in/yuribrizolara)
