@@ -37,4 +37,5 @@ node --watch index.js
 ```
 # Autor
 Yuri da Cruz Brizolara
-[linkedin](www.linkedin.com/in/yuribrizolara)
+
+[linkedin](https://www.linkedin.com/in/yuribrizolara/)
